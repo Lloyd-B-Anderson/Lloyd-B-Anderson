@@ -6,6 +6,7 @@
 ## 🌟 **About Me**
 
 - 🎓 **Mechatronics Engineer** | Bachelor’s Degree
+- 📚 Currently enrolled in a Data Scientist course with TripleTen to deepen my expertise in data analytics and machine learning.
 - 🤖 Transitioning into **Data Science**, combining robotics and automation with machine learning.
 - 🎨 Hobbyist in **3D Printing**, **Drone Flying**, and **DIY Engineering Projects**.
 - 🌟 A lifelong learner, currently enrolled in a **Data Science Bootcamp** to master Python, machine learning, and data visualization.
