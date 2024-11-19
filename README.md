@@ -24,14 +24,14 @@
 
 ---
 
-## 📊 **Featured Data Science Projects**
+## 📊 **Featured Projects**
 
-### 1️⃣ **Automation of a Manufacturing Cell**
+###  **Automation of a Manufacturing Cell**
 - **Objective:** Automate quality inspection using robotics and computer vision.  
 - **Tools:** Universal Robots, Kuka, Fanuc, Allen Bradley PLCs, Python, OpenCV.  
 - **Outcome:** Achieved seamless integration of robotics with vision-based inspection, improving efficiency by 25%.
 
-### 3️⃣ **Video Game Analysis: Patterns for Success**
+### **Video Game Analysis: Patterns for Success**
 - **Objective:** Analyze historical video game sales data to identify successful patterns.  
 - **Steps:**
   - **Data Preparation:** Standardized column names, handled missing values, converted types, and calculated total sales per game.
@@ -41,13 +41,6 @@
     - Compared user ratings between platforms like Xbox One and PC.
     - Analyzed genre-based differences in user ratings (e.g., Action vs. Sports).
 - **Outcome:** Insights into potential successful campaigns for future game launches.
-
----
-
-## 📈 **My GitHub Stats**
-
-![Lloyd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
 
 ---
 
