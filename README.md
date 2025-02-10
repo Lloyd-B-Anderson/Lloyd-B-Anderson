@@ -27,10 +27,10 @@
 
 ## 📊 **Featured Projects**
 
-###  **Automation of a Manufacturing Cell**
-- **Objective:** Automate quality inspection using robotics and computer vision.  
-- **Tools:** Universal Robots, Kuka, Fanuc, Allen Bradley PLCs, Python, OpenCV.  
-- **Outcome:** Achieved seamless integration of robotics with vision-based inspection, improving efficiency by 25%.
+### **Customer Churn Prediction - Beta Bank**
+- **Objective:** Predict customer churn to improve retention strategies.  
+- **Tools:** Python, Scikit-learn, Pandas, RandomForestClassifier.  
+- **Outcome:** Developed a predictive model with an F1-score exceeding 0.59, leveraging oversampling and class weighting for better performance.
 
 ### **Video Game Analysis: Patterns for Success**
 - **Objective:** Analyze historical video game sales data to identify successful patterns.  
@@ -42,6 +42,11 @@
     - Compared user ratings between platforms like Xbox One and PC.
     - Analyzed genre-based differences in user ratings (e.g., Action vs. Sports).
 - **Outcome:** Insights into potential successful campaigns for future game launches.
+
+###  **Automation of a Manufacturing Cell**
+- **Objective:** Automate quality inspection using robotics and computer vision.  
+- **Tools:** Universal Robots, Kuka, Fanuc, Allen Bradley PLCs, Python, OpenCV.  
+- **Outcome:** Achieved seamless integration of robotics with vision-based inspection, improving efficiency by 25%.
 
 ---
 
